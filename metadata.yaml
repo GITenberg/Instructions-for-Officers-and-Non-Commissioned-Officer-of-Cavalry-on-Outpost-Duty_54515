@@ -1,11 +1,16 @@
 _repo: Instructions-for-Officers-and-Non-Commissioned-Officer-of-Cavalry-on-Outpost-Duty_54515
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54515-h/images/cover.jpg
 creator:
   author:
     agent_name: Arentschildt, Lt-Col
     gutenberg_agent_id: '47909'
     url: http://www.gutenberg.org/2009/agents/47909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54515#Instructions-for-Officers-and-Non-Commissioned-Officer-of-Cavalry-on-Outpost-Duty
 gutenberg_issued: '2017-04-09'
 gutenberg_type: Text
 identifiers:
